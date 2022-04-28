@@ -1,0 +1,4 @@
+node_modules
+SyntaxAnalyzer.tab.c
+SyntaxAnalyzer.tab.h
+lex.y.c
